@@ -1,20 +1,54 @@
-# Constituição Vertical de Igrejas
+[![Contributors][contributors-shield]][contributors-url]
+[![7me][https://asas.sdasystems.org/assets/images/logo-branco-asas.png]][https://asas.sdasystems.org/]
 
-Texto descritivo para introdução às LEIS
+[![ACMS][https://asas.sdasystems.org/assets/images/logo-branco-asas.png]][https://asas.sdasystems.org/]
 
-<br>
-![Imagem de Justiça](https://media.istockphoto.com/id/1202321149/vector/lady-justice-themis-golden-emblem.jpg?s=612x612&w=0&k=20&c=DBml6l96xTAEcymXBIoSvk260tltoJ7JO8xcc43RAfY=)
+[![ACMS+][https://asas.sdasystems.org/assets/images/logo-branco-asas.png]][https://asas.sdasystems.org/]
 
+[![ASAS][asas-logo]][asas-url]
 
-## About me
-
-
+<!-- [![TEXTOOOO][IMAGEMMMM]][URLLLLLLLL] -->
 
 
----
-> If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
+<br />
+<div align="center">
+  <img src="logocabecalho.jpg" alt="Logo" width="200">
+  
+  <h3 align="center">Constituição Vertical de Igrejas</h3>
+
+  <p align="center">
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+    Texto descritivo para introdução às LEIS
+  </p>
+</div>
+
+## TÍTULO I - UM TITULO LEGAL PRA COMEÇAR
+
+**CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS**
+
+§ Art. 1º: Descrição de alguma lei geral.
+
+I - Item 1 referente ao artigo 1
+
+~~II - Item 2 referente ao artigo 2~~
+
+III - Item 3 referente ao artigo 3
+
+IV - Item 4 referente ao artigo 4
+
+<br><br><br><br><br><br><br><br>
+
+
+> _**"Na sexta, quem trabalha é besta."**_
+
+<br><br>
 
 
 
@@ -26,5 +60,25 @@ Texto descritivo para introdução às LEIS
 [Sobre escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
 <br>
 [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<br>
+[TEMPLATE](https://github.com/othneildrew/Best-README-Template)
 
 </details>
+
+
+
+
+
+[asas-logo]: https://asas.sdasystems.org/assets/images/logo-branco-asas.png
+[asas-url]: https://asas.sdasystems.org/
+
+
+
+
+
+
+
+
+
+
+
