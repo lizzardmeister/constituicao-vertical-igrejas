@@ -29,9 +29,23 @@
   </p>
 </div>
 
-## TÍTULO I - UM TITULO LEGAL PRA COMEÇAR
+## TÍTULO I - AOS MEMBROS DA VERTICAL DE IGREJAS
 
-**CAPÍTULO I - DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS**
+**CAPÍTULO I - COXINHA**
+
+§ Art. 1º: Descrição de alguma lei geral.
+
+I - Item 1 referente ao artigo 1
+
+~~II - Item 2 referente ao artigo 2~~
+
+III - Item 3 referente ao artigo 3
+
+IV - Item 4 referente ao artigo 4
+
+<br><br>
+
+**CAPÍTULO II - CAMBADINHA**
 
 § Art. 1º: Descrição de alguma lei geral.
 
