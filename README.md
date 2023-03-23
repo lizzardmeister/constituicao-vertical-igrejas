@@ -43,6 +43,8 @@ III - Item 3 referente ao artigo 3
 
 IV - Item 4 referente ao artigo 4
 
+Quem chega, paga coxinha
+
 <br><br>
 
 **CAPÍTULO II - CAMBADINHA**
@@ -56,6 +58,17 @@ I - Item 1 referente ao artigo 1
 III - Item 3 referente ao artigo 3
 
 IV - Item 4 referente ao artigo 4
+
+Toda quinta
+Quem tem auxílio q dá carona
+Horário
+
+
+<br><br>
+
+**CAPÍTULO III - SORVETE**
+
+Quem sai, paga sorvete
 
 <br><br><br><br><br><br><br><br>
 
