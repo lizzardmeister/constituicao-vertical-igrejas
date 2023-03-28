@@ -1,10 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![7me][https://asas.sdasystems.org/assets/images/logo-branco-asas.png]][https://asas.sdasystems.org/]
-
-[![ACMS][https://asas.sdasystems.org/assets/images/logo-branco-asas.png]][https://asas.sdasystems.org/]
-
-[![ACMS+][https://asas.sdasystems.org/assets/images/logo-branco-asas.png]][https://asas.sdasystems.org/]
-
+[![7me][7me-logo]][7me-url]
+[![ACMS][acms-logo]][acms-url]
+[![ACMS+][acms-plus-logo]][acms-plus-url]
 [![ASAS][asas-logo]][asas-url]
 
 <!-- [![TEXTOOOO][IMAGEMMMM]][URLLLLLLLL] -->
@@ -70,10 +66,11 @@ Horário
 
 Quem sai, paga sorvete
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
 > _**"Na sexta, quem trabalha é besta."**_
+> _**"Quanto tá paçoca aí?"**_
 
 <br><br>
 
@@ -101,10 +98,14 @@ Quem sai, paga sorvete
 
 
 [asas-logo]: https://asas.sdasystems.org/assets/images/logo-branco-asas.png
+[acms-plus-logo]: https://static.vecteezy.com/system/resources/thumbnails/021/556/112/small/error-404-page-not-found-contour-illustration-of-a-small-chibi-who-sits-next-to-a-screwdriver-and-a-broken-wire-for-the-design-vector.jpg
+[acms-logo]: https://static.vecteezy.com/system/resources/thumbnails/021/556/112/small/error-404-page-not-found-contour-illustration-of-a-small-chibi-who-sits-next-to-a-screwdriver-and-a-broken-wire-for-the-design-vector.jpg
+[7me-logo]: https://static.vecteezy.com/system/resources/thumbnails/021/556/112/small/error-404-page-not-found-contour-illustration-of-a-small-chibi-who-sits-next-to-a-screwdriver-and-a-broken-wire-for-the-design-vector.jpg
+
 [asas-url]: https://asas.sdasystems.org/
-
-
-
+[7me-url]: https://en.wikipedia.org/wiki/HTTP_404
+[acms-url]: https://en.wikipedia.org/wiki/HTTP_404
+[acms-plus-url]: https://en.wikipedia.org/wiki/HTTP_404
 
 
 
