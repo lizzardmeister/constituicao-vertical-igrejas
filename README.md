@@ -70,7 +70,7 @@ Quem sai, paga sorvete
 
 
 > _**"Na sexta, quem trabalha é besta."**_
-<br>
+
 > _**"Quanto tá paçoca aí?"**_
 
 <br><br>
