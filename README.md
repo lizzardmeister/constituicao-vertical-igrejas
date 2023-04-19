@@ -1,7 +1,7 @@
-[![7me][7me-logo]][7me-url]
-[![ACMS][acms-logo]][acms-url]
-[![ACMS+][acms-plus-logo]][acms-plus-url]
-[![ASAS][asas-logo]][asas-url]
+<!-- [![7me][7me-logo]][7me-url] -->
+<!-- [![ACMS][acms-logo]][acms-url] -->
+<!-- [![ACMS+][acms-plus-logo]][acms-plus-url] -->
+<!-- [![ASAS][asas-logo]][asas-url] -->
 
 <!-- [![TEXTOOOO][IMAGEMMMM]][URLLLLLLLL] -->
 
@@ -14,14 +14,11 @@
   <h3 align="center">Constituição Vertical de Igrejas</h3>
 
   <p align="center">
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
-    Texto descritivo para introdução às LEIS
+    Esta é uma constituição de itens que visa esclarecer os direitos e deveres
+    dos cidadãos igrejeiros. 
+    A constituição aborda temas como saúde, educação, trabalho, justiça e cidadania.
+    Também oferece dicas de como buscar ajuda em caso de possíveis dúvidas que
+    apareçam e sobre a garantia de realização dos eventos instaurados para a vertical.
   </p>
 </div>
 
@@ -29,42 +26,42 @@
 
 **CAPÍTULO I - COXINHA**
 
-§ Art. 1º: Descrição de alguma lei geral.
+§ Art. 1º: Ao ter sua carteira assinada pelo órgão contratador da vertical de igrejas, o novo integrante se encontra em posição de incumbência à fornecer alimento e refrescos na forma de coxinhas e refrigerante com rótulo vermelho e branco.
 
-I - Item 1 referente ao artigo 1
-
-~~II - Item 2 referente ao artigo 2~~
-
-III - Item 3 referente ao artigo 3
-
-IV - Item 4 referente ao artigo 4
-
-Quem chega, paga coxinha
+I - Evitar quinta* [Formatar]
 
 <br><br>
 
 **CAPÍTULO II - CAMBADINHA**
 
-§ Art. 1º: Descrição de alguma lei geral.
+§ Art. 1º: Fica determinado que em toda quinta-feira, o almoço dos integrantes da vertical será realizado no restaurante Hortolândia II, também conhecido por "Cambadinha".
 
-I - Item 1 referente ao artigo 1
+I - Perguntar se vai ter já tem resposta fixa.* [Formatar]
 
-~~II - Item 2 referente ao artigo 2~~
+II - Horário* [Formatar]
 
-III - Item 3 referente ao artigo 3
+III - Somente será alterado o dia do cambadinha por motivo maior* [Formatar]
 
-IV - Item 4 referente ao artigo 4
-
-Toda quinta
-Quem tem auxílio q dá carona
-Horário
+IV - Quem tem auxílio combustível tem prioridade em oferecer carona.* [Formatar]
 
 
 <br><br>
 
 **CAPÍTULO III - SORVETE**
 
-Quem sai, paga sorvete
+§ Art. 1º: Caso ocorra de um funcionário ter seu desligamento confirmado pelo órgão contratador da vertical de igrejas, lhe recai a incumbência de fornecer uma doce despedida em forma de sorvete.
+
+~~I - Fica decretado que o item a ser fornecido seja sorvete de Ninho Trufado da Sergel~~ (À ser votado )
+
+II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança de sorvete para açaí ou outro item)
+
+<br><br>
+
+**CAPÍTULO IV - ÁGIL**
+
+Rolagem de dados* [Formatar]
+Kanban e tantúfas* [Formatar]
+O iumportante é o que importa. (Fibonacci)* [Formatar]
 
 <br><br><br><br>
 
@@ -80,6 +77,10 @@ Quem sai, paga sorvete
 <br><br>
 
 
+<!-- Incluir links de lugares, números de telefone dos locais e endereços -->
+
+<!-- Número de tel da coxinha: (19) 98993-1065 "Cantinho dos Salgados" -->
+
 
 <details>
 <summary><h3>Help Formatação de Página</h3></summary>
@@ -94,8 +95,6 @@ Quem sai, paga sorvete
 
 </details>
 
-
-<!-- Incluir links de lugares, números de telefone dos locais e endereços -->
 
 
 
