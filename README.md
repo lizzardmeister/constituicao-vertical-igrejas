@@ -28,7 +28,11 @@
 
 § Art. 1º: Ao ter sua carteira assinada pelo órgão contratador da vertical de igrejas, o novo integrante se encontra em posição de incumbência à fornecer alimento e refrescos na forma de coxinhas e refrigerante com rótulo vermelho e branco.
 
-I - Evitar quinta* [Formatar]
+I - Fica acordado que caso a escolha do dia para fornecer os alimentos seja numa quinta-feira, a atitude será tratada de maneira extremamente deselegante, pois irá conflitar com o Capítulo II.
+
+II - A cobrança de realização do evento será feita mediante o período do pagamento do primeiro salário vindo pela vertical.
+
+III - Não será permitido realizar a prática de ajuntar dividendos e desembolsar um evento alimentício em conjunto com outrem.
 
 <br><br>
 
@@ -36,13 +40,15 @@ I - Evitar quinta* [Formatar]
 
 § Art. 1º: Fica determinado que em toda quinta-feira, o almoço dos integrantes da vertical será realizado no restaurante Hortolândia II, também conhecido por "Cambadinha".
 
-I - Perguntar se vai ter já tem resposta fixa.* [Formatar]
+I - Perguntas de cunho duvidoso sobre o acontecimento de tal evento, sempre terão como resposta o termo "Sim", ficando assim facultativa a obrigação de responder tais perguntas.
 
-II - Horário* [Formatar]
+II - O horário determinado para início de deslocamento ao estabelecimento é de 12h10 por fins de imagem administrativa da organização empresarial.
 
-III - Somente será alterado o dia do cambadinha por motivo maior* [Formatar]
+III - Se, e somente se, for combinado outro evento onde recursos financeiros próprios forem necessários, ou algum outro evento gastronômico na semana, abre-se a opção de cancelar ou alterar o dia de quinta-feira.
 
 IV - Quem tem auxílio combustível tem prioridade em oferecer carona.* [Formatar]
+
+V - A escolha de quinta-feira se deve mediante ao evento periódico do restaurante, que ocorre às quintas, que determina uma mistura adicional no cardápio, na forma de Picanha.
 
 
 <br><br>
