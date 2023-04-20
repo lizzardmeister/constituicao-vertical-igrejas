@@ -34,6 +34,8 @@ II - A cobrança de realização do evento será feita mediante o período do pa
 
 III - Não será permitido realizar a prática de ajuntar dividendos e desembolsar um evento alimentício em conjunto com outrem.
 
+IV - O cálculo de montante necessário para tal evento se deve por volta de 15 (quinze) salgados por participante no dia do evento, e o refresco, por volta de 200 (duzentos) mililitros por participante.
+
 <br><br>
 
 **CAPÍTULO II - CAMBADINHA**
@@ -46,9 +48,13 @@ II - O horário determinado para início de deslocamento ao estabelecimento é d
 
 III - Se, e somente se, for combinado outro evento onde recursos financeiros próprios forem necessários, ou algum outro evento gastronômico na semana, abre-se a opção de cancelar ou alterar o dia de quinta-feira.
 
-IV - Quem tem auxílio combustível tem prioridade em oferecer carona.* [Formatar]
+IV - Por motivos de maior justiça, o indivíduo que for mais abastado e possuir auxílios relacionados à combustível, deve se posicionar de prontidão para oferecer transporte para o deslocamento de todos os participantes possíveis, antes de ser necessário o serviço de outro participante que nao possua tal benefício.
 
 V - A escolha de quinta-feira se deve mediante ao evento periódico do restaurante, que ocorre às quintas, que determina uma mistura adicional no cardápio, na forma de Picanha.
+
+VI - O valor da refeição será por conta do participante, assim como no restaurante organizacional. Caso ocorra de algum superior fornecer o recurso financeiro para os demais participantes, este caso será tratado como excepcional, não se fazendo de regra.
+
+VII - O indivíduo que deseja participar do evento e que não se encontra presente nas instalações físicas da organização, devem se manifestar de tal forma que os participantes presentes tenham conhecimento da necessidade de fornecer transporte e/ou reservar lugares no estabelecimento.
 
 
 <br><br>
@@ -57,20 +63,11 @@ V - A escolha de quinta-feira se deve mediante ao evento periódico do restauran
 
 § Art. 1º: Caso ocorra de um funcionário ter seu desligamento confirmado pelo órgão contratador da vertical de igrejas, lhe recai a incumbência de fornecer uma doce despedida em forma de sorvete.
 
-~~I - Fica decretado que o item a ser fornecido seja sorvete de Ninho Trufado da Sergel~~ (À ser votado )
+~~I - Fica decretado que o item a ser fornecido seja sorvete de Ninho Trufado da Sergel ou Danju~~ (À ser votado )
 
 II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança de sorvete para açaí ou outro item)
 
 <br><br>
-
-**CAPÍTULO IV - ÁGIL**
-
-Rolagem de dados* [Formatar]
-Kanban e tantúfas* [Formatar]
-O iumportante é o que importa. (Fibonacci)* [Formatar]
-
-<br><br><br><br>
-
 
 > _**"Na sexta, quem trabalha é besta."**_
 
@@ -80,16 +77,25 @@ O iumportante é o que importa. (Fibonacci)* [Formatar]
 
 > _**"LARA ele..."**_
 
-<br><br>
+<details>
+<summary><h5>Anexo de Contatos</h5></summary>
 
+- Cantinho dos Salgados (19) 98993-1065 💬
+  
+- Zezé Salgados (19) ?????-????
+  
+- Aníbal (19) 3370-0928 📞 / (19) 98307 7430 💬
+  
+- Cambadinha (Hortolândia II) (19) 3845-2646 📞
+  
+- Danju (19) 3897-1701
+  
+- Sergel (19) 98305-0202
 
-<!-- Incluir links de lugares, números de telefone dos locais e endereços -->
-
-<!-- Número de tel da coxinha: (19) 98993-1065 "Cantinho dos Salgados" -->
-
+</details>
 
 <details>
-<summary><h3>Help Formatação de Página</h3></summary>
+<summary><h5>Help Formatação de Página</h5></summary>
 
 [Quickstart](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 <br>
