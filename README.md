@@ -7,7 +7,7 @@
 
 
 
-<br />
+<br>
 <div align="center">
   <img src="logocabecalho.jpg" alt="Logo" width="200">
   
@@ -21,6 +21,9 @@
     apareçam e sobre a garantia de realização dos eventos instaurados para a vertical.
   </p>
 </div>
+
+<br>
+<br>
 
 ## TÍTULO I - AOS MEMBROS DA VERTICAL DE IGREJAS
 
