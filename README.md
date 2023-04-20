@@ -91,9 +91,9 @@ II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança
   
 - Cambadinha (Hortolândia II) (19) 3845-2646 📞
   
-- Danju (19) 3897-1701
+- Danju (19) 3897-1701 📞
   
-- Sergel (19) 98305-0202
+- Sergel (19) 98305-0202 📞
 
 </details>
 
