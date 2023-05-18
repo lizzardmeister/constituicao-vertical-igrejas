@@ -85,9 +85,9 @@ II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança
 
 - Cantinho dos Salgados (19) 98993-1065 💬
   
-- Zezé Salgados (19) ?????-????
+- O Famoso (19) 99804-7320 📞 / (19) 99982-1087 💬
   
-- Aníbal (19) 3370-0928 📞 / (19) 98307 7430 💬
+- Aníbal (19) 3370-0928 📞 / (19) 98307-7430 💬
   
 - Cambadinha (Hortolândia II) (19) 3845-2646 📞
   
