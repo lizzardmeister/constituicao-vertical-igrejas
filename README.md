@@ -83,17 +83,14 @@ II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança
 <details>
 <summary><h5>Anexo de Contatos</h5></summary>
 
-- Cantinho dos Salgados (19) 98993-1065 💬
-  
-- O Famoso (19) 99804-7320 📞 / (19) 99982-1087 💬
-  
-- Aníbal (19) 3370-0928 📞 / (19) 98307-7430 💬
-  
-- Cambadinha (Hortolândia II) (19) 3845-2646 📞
-  
-- Danju (19) 3897-1701 📞
-  
-- Sergel (19) 98305-0202 📞
+- Salgaderia Hortolândia Loja 1 (Vila Real) 📞 (19) 3897-6423 / 💬 (19) 97167-6325
+- Salgaderia Hortolândia Loja 2 (Amanda II) 📞 (19) 2220-6026 / 💬 (19) 97167-6326
+- Cantinho dos Salgados 💬 (19) 98993-1065
+- O Famoso 📞 (19) 99804-7320 / 💬 (19) 99982-1087
+- Aníbal 📞 (19) 3370-0928 / 💬 (19) 98307-7430
+- Cambadinha (Hortolândia II) 📞 (19) 3845-2646
+- Danju 📞 (19) 3897-1701
+- Sergel 📞 (19) 98305-0202
 
 </details>
 
