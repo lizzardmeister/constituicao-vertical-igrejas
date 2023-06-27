@@ -72,13 +72,15 @@ II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança
 
 <br><br>
 
-> _**"Na sexta, quem trabalha é besta."**_
+> _**"Na sexta, quem trabalha é besta." - MEDEIROS, Hevid**_
 
-> _**"Quanto tá paçoca aí?"**_
+> _**"Quanto tá paçoca aí?" - PRIMO, Lucas**_
 
-> _**"Malish"**_
+> _**"Malish" NATAL, - Marcos**_
 
-> _**"LARA ele..."**_
+> _**"LARA ele..." - ANONIMO**_
+
+> _**"Para existir comunidade, não deve existir burocracia" - FLAUSINO, Paulo**_
 
 <details>
 <summary><h5>Anexo de Contatos</h5></summary>
