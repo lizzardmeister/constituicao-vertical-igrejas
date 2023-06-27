@@ -76,7 +76,7 @@ II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança
 
 > _**"Quanto tá paçoca aí?" - PRIMO, Lucas**_
 
-> _**"Malish" NATAL, - Marcos**_
+> _**"Malish" - NATAL, Marcos**_
 
 > _**"LARA ele..." - ANONIMO**_
 
