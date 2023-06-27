@@ -90,7 +90,7 @@ II - A quantidade determinada é a de 1 (um) pote de 10L (À ser votado mudança
 - Cantinho dos Salgados 💬 (19) 98993-1065
 - O Famoso 📞 (19) 99804-7320 / 💬 (19) 99982-1087
 - Aníbal 📞 (19) 3370-0928 / 💬 (19) 98307-7430
-- Cambadinha (Hortolândia II) 📞 (19) 3845-2646
+- Cambadinha (Hortolândia II) 💬 (19) 98194-0771
 - Danju 📞 (19) 3897-1701
 - Sergel 📞 (19) 98305-0202
 
